@@ -11,7 +11,7 @@ const Shop = () => {
     return (
         <div className='shop-container'>
           <div className='products-container'>
-            <h2>Products coming here:{products.length}</h2>
+            
             </div> 
             <div className='cart-container'>
                 <h4>Order summary</h4>
